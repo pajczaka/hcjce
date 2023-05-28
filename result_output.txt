@@ -1,0 +1,14 @@
+===== LIST OF COMPONENTS WITHOUT COMPONENT LEAD [TOTAL: 3] =====
+
+ID: 10130 
+Name: Backend 
+Number of issues related: 1 
+
+ID: 10128 
+Name: Synchronization 
+Number of issues related: 2 
+
+ID: 10131 
+Name: Templates 
+Number of issues related: 5 
+
